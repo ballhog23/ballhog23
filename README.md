@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 - I'm currently working on a data sync pipeline with the Sleeper API to maintain historical data of our Fantasy Football league
 - I've been writing JavaScript for 5 years and in the past 3 months I've focused on writing TypeScript
 - I'm currently learning more about backend development through Boot.dev to achieve my goal of becoming a backend developer
+- I'm gaining knowledge of cloud platforms specifically AWS
 - I love building websites
